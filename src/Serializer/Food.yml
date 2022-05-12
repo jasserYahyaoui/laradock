@@ -1,0 +1,5 @@
+App\Entity\Food:
+    properties:
+        name:
+            type: string
+            serialized_name: name
